@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Chris-0001&style=for-the-badge&color=7B5CFF&labelColor=0d1117&label=Profile+views" alt="Profile views" /> <img src="https://img.shields.io/github/followers/Chris-0001?style=for-the-badge&labelColor=0d1117&color=00FFA3" alt="Followers" />
+<img src="https://img.shields.io/github/followers/Chris-0001?style=for-the-badge&labelColor=0d1117&color=00FFA3" alt="Followers" />
 
 </div>
 
@@ -21,14 +21,13 @@
 ## ⚡ whoami
 
 ```typescript
-const chris: Developer = {
+const chris: Builder = {
   role:      "Cybersecurity enthusiast & tool builder",
-  seeking:   ["Cybersecurity Operations", "Applied R&D"],
-  currently: "building in public",
+  seeking:   ["Cybersecurity Operations", "Applied R&D", "Threat Intelligence", "SIGINT"],
+  currently: ["building in public", "building in private"],
   stack:     ["Python", "C", "Java", "Go", "SQL"],
-  learning:  ["Bash", "Rust"],
-  focus:     ["Social engineering", "AI application security", "Hardware & RF"],
-  mantra:    "Make useful things, then make them delightful 🚀",
+  interests: ["Social engineering", "AI application security", "Hardware & RF"],
+  mantra:    "Do hard things, live life to the fullest and be grateful for your opportunities",
 };
 ```
 
@@ -51,13 +50,13 @@ const chris: Developer = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,c,java,go,bash,rust,linux,git,raspberrypi,html,css&perline=8&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=py,c,java,go&perline=8&theme=dark" alt="Tech stack" />
 
 <br/><br/>
 
 **🛡️ Cybersecurity &nbsp;·&nbsp; ⚙️ Automation &nbsp;·&nbsp; 🐧 Linux**
 
-<img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&amp;labelColor=0d1117" alt="Python" /> <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&amp;labelColor=0d1117" alt="C" /> <img src="https://img.shields.io/badge/Java-b07219?style=for-the-badge&amp;labelColor=0d1117" alt="Java" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;labelColor=0d1117" alt="Go" /> <img src="https://img.shields.io/badge/SQL-e38c00?style=for-the-badge&amp;labelColor=0d1117" alt="SQL" /> <img src="https://img.shields.io/badge/Shell-89e051?style=for-the-badge&amp;labelColor=0d1117" alt="Bash" /> <img src="https://img.shields.io/badge/Rust-dea584?style=for-the-badge&amp;labelColor=0d1117" alt="Rust" /> <img src="https://img.shields.io/badge/MITRE_ATT%26CK-C8102E?style=for-the-badge&amp;labelColor=0d1117" alt="MITRE ATT&CK" /> <img src="https://img.shields.io/badge/OWASP_LLM_Top_10-000000?style=for-the-badge&amp;labelColor=0d1117" alt="OWASP LLM Top 10" />
+<img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&amp;labelColor=0d1117" alt="Python" /> <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&amp;labelColor=0d1117" alt="C" /> <img src="https://img.shields.io/badge/Java-b07219?style=for-the-badge&amp;labelColor=0d1117" alt="Java" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;labelColor=0d1117" alt="Go" /> <img src="https://img.shields.io/badge/SQL-e38c00?style=for-the-badge&amp;labelColor=0d1117" alt="SQL" /> <img src="https://img.shields.io/badge/MITRE_ATT%26CK-C8102E?style=for-the-badge&amp;labelColor=0d1117" alt="MITRE ATT&CK" /> <img src="https://img.shields.io/badge/OWASP_LLM_Top_10-000000?style=for-the-badge&amp;labelColor=0d1117" alt="OWASP LLM Top 10" />
 
 </div>
 
