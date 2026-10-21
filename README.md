@@ -50,11 +50,11 @@ const chris: Builder = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,c,java,go&perline=8&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=py,c,java,go,mysql&perline=8&theme=dark" alt="Tech stack" />
 
 <br/><br/>
 
-**🛡️ Cybersecurity &nbsp;·&nbsp; ⚙️ Automation &nbsp;·&nbsp; 🐧 Linux**
+**🛡️ Cybersecurity &nbsp;·&nbsp; 🔬 Research &nbsp;·&nbsp; ⚙️ Automation &nbsp;·&nbsp; 🐧 Linux**
 
 <img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&amp;labelColor=0d1117" alt="Python" /> <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&amp;labelColor=0d1117" alt="C" /> <img src="https://img.shields.io/badge/Java-b07219?style=for-the-badge&amp;labelColor=0d1117" alt="Java" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;labelColor=0d1117" alt="Go" /> <img src="https://img.shields.io/badge/SQL-e38c00?style=for-the-badge&amp;labelColor=0d1117" alt="SQL" /> <img src="https://img.shields.io/badge/MITRE_ATT%26CK-C8102E?style=for-the-badge&amp;labelColor=0d1117" alt="MITRE ATT&CK" /> <img src="https://img.shields.io/badge/OWASP_LLM_Top_10-000000?style=for-the-badge&amp;labelColor=0d1117" alt="OWASP LLM Top 10" />
 
@@ -112,6 +112,10 @@ Hands-on Capture The Flag challenges on prompt injection and input manipulation 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/heatmap?username=Chris-0001&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F234599126%3Fv%3D4" alt="Chris-0001 heatmap visual" />
 </p>
+
+<a href="https://github.com/Chris-0001">
+<img src="https://www.gitskins.com/api/section/heatmap?username=Chris-0001&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F234599126%3Fv%3D4&variant=space-shooter&v=space-jet-original-2&mode=dark" width="100%" alt="Chris-0001 animated contribution jet" />
+</a>
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=Chris-0001&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
