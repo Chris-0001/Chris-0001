@@ -98,7 +98,7 @@ Hands-on Capture The Flag challenges on prompt injection and input manipulation 
 
 `LLM security` · `CTF`
 
-<img src="https://img.shields.io/badge/Status-Coming_soon-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Coming soon" />
+<a href="https://github.com/NGDSA-Lab/LLM-CTF"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
 
 </td>
 <td width="50%" valign="top">
