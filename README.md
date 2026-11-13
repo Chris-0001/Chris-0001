@@ -113,10 +113,6 @@ Hands-on Capture The Flag challenges on prompt injection and input manipulation 
   <img src="https://www.gitskins.com/api/section/heatmap?username=Chris-0001&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F234599126%3Fv%3D4" alt="Chris-0001 heatmap visual" />
 </p>
 
-<a href="https://github.com/Chris-0001">
-<img src="https://www.gitskins.com/api/section/heatmap?username=Chris-0001&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F234599126%3Fv%3D4&variant=space-shooter&v=space-jet-original-2&mode=dark" width="100%" alt="Chris-0001 animated contribution jet" />
-</a>
-
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=Chris-0001&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 <div align="center">
