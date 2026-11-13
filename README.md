@@ -94,7 +94,7 @@ Security threat-feed project
 
 **AI Security CTF**
 
-Hands-on Capture The Flag challenges on prompt injection and input manipulation in language models, based on the OWASP Top 10 for LLM Applications
+Hands-on Capture The Flag challenges on prompt injection and input manipulation in language models, inspired by the OWASP Top 10 for LLM Applications
 
 `LLM security` · `CTF`
 
